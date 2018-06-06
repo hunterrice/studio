@@ -497,6 +497,7 @@ img {
 .header-search-form,
 .search-form-on .navbar-nav {
     display: none;
+
 }
 
 .search-form-on .header-search-form {
@@ -896,6 +897,11 @@ img {
 
 .portfolio-menu button:focus {
     box-shadow: none;
+}
+
+.button {
+  padding-bottom: 80px;
+  margin-right: 5%;
 }
 
 .gallery_menu {
