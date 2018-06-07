@@ -45,11 +45,11 @@
     $('[data-toggle="tooltip"]').tooltip()
 
     // Nicescroll Active Code
-    $("body, .gallery_area").niceScroll({
-        cursorcolor: "#717171",
-        cursorwidth: "5px",
-        background: "#f0f0f0"
-    });
+//     $("body, .gallery_area").niceScroll({
+//         cursorcolor: "#717171",
+//         cursorwidth: "5px",
+//         background: "#f0f0f0"
+//     });
 
     // Instagram Feeds Slider
     if ($.fn.owlCarousel) {
