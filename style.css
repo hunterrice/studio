@@ -4,3 +4,6 @@
 .slide-text:hover a {
   transform: scale(0.95);
 }
+.nav-link:hover {
+  transform: scale(0.95);
+}
