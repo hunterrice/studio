@@ -1,0 +1,9 @@
+.carousel-indicators .bg-img:hover {
+  transform: scale(0.95);
+}
+.slide-text:hover a {
+  transform: scale(0.93);
+}
+.nav-link:hover {
+  transform: scale(1.2);
+}
