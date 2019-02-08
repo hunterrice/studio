@@ -733,8 +733,9 @@ img {
 .slide-text {
     padding: 25px 30px 15px;
     border-left: 3px solid #fff;
-    margin-left: 35px;
-    border-radius: 5px;
+    /* z-index: -; */
+    margin-left: 45px;
+    border-radius: 50px;
     background-color: rgba(255, 255, 255, 0.3);
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
     display: -webkit-box;
@@ -743,7 +744,7 @@ img {
     -webkit-box-align: baseline;
     -ms-flex-align: baseline;
     align-items: baseline;
-    margin-top: -650px;
+    margin-top: -160px;
 }
 
 &.bg-blur{
