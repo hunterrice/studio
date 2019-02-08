@@ -89,7 +89,7 @@
         margin-top: -50px;
     }
     .carousel-indicators li {
-        height: 50px;
+        height: 140px;
     }
     .slide-text span {
         font-size: 60px;
@@ -171,7 +171,7 @@
         bottom: 40px;
     }
     .carousel-indicators li {
-        height: 100px;
+        height: 130px;
     }
     .social-info-area {
         left: -27px;
