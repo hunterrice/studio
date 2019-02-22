@@ -683,7 +683,7 @@ img {
 }
 
 .carousel-indicators li {
-    width: 40%;
+    width: 400%;
     height: 150px;
     border-radius: 4px;
 
@@ -702,9 +702,9 @@ img {
 .carousel-indicators li.active:after {
     content: '';
     display: block;
-    width: 16px;
-    height: 16px;
-    top: -26px;
+    width: 50px;
+    height: 50px;
+    top: -50px;
     z-index: 1100;
     position: absolute;
     background-image: url(../img/core-img/active.png);
@@ -1252,14 +1252,14 @@ span.accor-open {
     content: '';
     display: inline-block;
     position: absolute;
-    width: 14px;
-    height: 14px;
+    width: 30px;
+    height: 30px;
     border-radius: 50%;
     top: -25px;
-    left: 1px;
+    left: 10px;
     -webkit-animation: sonar-effect 1s ease-in-out .1s infinite;
     animation: sonar-effect 1s ease-in-out .1s infinite;
-    z-index: 1;
+    z-index: -1200;
     background-color: #fff;
 }
 
