@@ -702,10 +702,11 @@ img {
 .carousel-indicators li.active:after {
     content: '';
     display: block;
-    width: 50px;
-    height: 50px;
-    top: -50px;
-    z-index: 1100;
+    margin-left: 8px;
+    width: 32px;
+    height: 39.5px;
+    top: -35.4px;
+    z-index: 2000;
     position: absolute;
     background-image: url(../img/core-img/active.svg);
 }
